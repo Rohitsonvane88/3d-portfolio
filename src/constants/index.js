@@ -144,7 +144,7 @@ import {
       iconBg: "#383E56",
       date: "August 2020 - August 2024",
       points: [
-        "CGPA: 9.22"
+        "CGPA: 9.5"
       ],
     },
     {
@@ -154,7 +154,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2022 - Decempber 2023",
       points: [
-        "Grade: AB"
+        "CGPA: 9.5"
       ],
     },
   ];
